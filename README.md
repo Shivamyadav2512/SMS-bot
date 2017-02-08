@@ -1,2 +1,2 @@
 # SMS-bot
-A facebook messenger chatbot that sends free sms
+A chatbot that sends free sms using way2sms
